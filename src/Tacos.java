@@ -1,4 +1,4 @@
-public abstract class Tacos implements Food {
+public class Tacos implements Food {
     @Override
     public double baseCost() { return 2.99; }
 
